@@ -1,10 +1,4 @@
 # Домашна задача – Hadoop и Map-Reduce
-### Група 37
-
-* Андреј Гаштеовски 111035 [@andrejgasteovski](https://github.com/andrejgasteovski)
-* Ивана Божинова 111023 [@ivanabozhinova](https://github.com/ivanabozhinova)
-* Сандра Деловска 111043 [@Sandra012](https://github.com/Sandra012)
-* Ева Танаскоска 122124
 
 ## Опис на проблемот
 Податоците од log датотеките можат да послужат за стекнување на многу информации кои се од големо значење.  Во склоп на оваа задача ние сакаме да извлечеме корисни информации обработувајќи log датотека превземена од материјалите на udacity.org од курсот за Hadoop. За download е достапна на следниот [линк](http://content.udacity-data.com/courses/ud617/access_log.gz) (~500MB).
